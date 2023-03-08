@@ -1,0 +1,227 @@
+<!--About --> 
+
+<Doctype html> 
+<html> 
+
+<head>  
+
+<link rel="stylesheet" href="styleh.css"> 
+</head> 
+
+<body>
+
+
+<div class="nav2"> 
+<nav class="navbar">
+      <a  href="#">Home</a> &nbsp &nbsp &nbsp &nbsp 
+      <a  href="aku.html" >About </a> &nbsp &nbsp &nbsp &nbsp 
+	  <a  href="#"> Administration </a> &nbsp  &nbsp &nbsp &nbsp 
+	  <a  href="#" > Academics </a> &nbsp &nbsp &nbsp &nbsp 
+	  <a  href="#"> Students </a> &nbsp &nbsp &nbsp &nbsp 
+	  <a  href="#"> Colleges</a>  &nbsp &nbsp &nbsp &nbsp 
+	  <a  href="#"> Centres @AKU </a> &nbsp &nbsp &nbsp &nbsp 
+      <a href="#">Contact Us</a> &nbsp &nbsp &nbsp &nbsp 
+    </nav>
+	</div> 
+
+
+<p class="txt"> <b>  Aryabhatta Knowledge University (AKU Patna) </b>  is a <a href="https://en.wikipedia.org/wiki/Collegiate_university">  collegiate public state university </a>  located in Mithapur, <a href= "https://en.wikipedia.org/wiki/Patna"> Patna, Bihar, </a> India.
+ It was named after the Indian astronomer <a href="https://en.wikipedia.org/wiki/Aryabhata" > Aryabhatta.</a> <br>
+
+
+Apart from a few notable exceptions, AKU has authority over technical education all over the state of Bihar, 
+and it functions as the state technological university of Bihar. 
+It is recognised and approved by <a href="https://en.wikipedia.org/wiki/All_India_Council_for_Technical_Education" > AICTE </a> .
+ It is a statutory requirement for colleges offering any program in engineering,
+ medical or technology in the state to be affiliated with the university. </p> 
+ <b> It also has four schools: </b><br>
+<ul> 
+<li> Centre for Geographical studies.</li> 
+<li> Centre for River studies.</li> 
+<li> Centre for Journalism and Mass Communication.</li>
+<li> Patliputra School of Economics.</li>  
+
+</ul> 
+ 
+</body> 
+</html> 
+
+
+
+
+<h2> <u>  Campus </u>  </h2> 
+
+<p> 
+<b>
+The university operates from its own office in Mithapur, Patna. </p>
+
+
+<h2><u>  History </u>  </h2> 
+<p>The university was established in 2010 by the Government of Bihar through the Aryabhatta Knowledge University Act, 2008.<br> 
+ It was established for the development and management of educational infrastructure related to technical education, medical, management and allied professional education in Bihar.
+ </p> 
+
+<h2> <u>  Affliated Colleges </u>  </h2> 
+<p> In the session 2020–21, university has 56 Engineering and pharmacy colleges, 
+15 medical colleges, 33 educational colleges, 8 community colleges, 36 nursing colleges and 11 vocational colleges.
+
+</p> 
+
+<h2> <u>  Engineering and Pharmacy colleges </u> </h2>
+<p> <b>The Engineering and pharmacy colleges under Aryabhatta Knowledge University include.</b> 
+
+<ul> 
+<li> <a href="#"> BP Mandal College of Engineering </a> </li>
+<li> <a href="#"> Bakhtiyarpur College of Engineering </a> </li>
+ <li> <a href="#"> Bhagalpur College of Engineering </a> </li> 
+ <li> <a href="#"> Darbhanga College of Engineering </a> </li>
+  <li> <a href="#">Gaya College of Engineering </a> </li>
+<li> <a href="#"> Katihar Engineering College </a> </li>
+<li> <a href="#"> Motihari College of Engineering </a> </li>
+<li> <a href="#"> Nalanda College of Engineering  </a> </li>
+<li> <a href="#"> Purnea College of Engineering </a> </li> 
+<li> <a href="#"> Saharsa College of Engineering </a> </li> 
+ <li> <a href="#"> Supaul College of Engineering </a> </li>
+<li> <a href="#"> Loknayak Jai Prakash Institute of Technology </a> </li>
+<li> <a href="#"> Rashtrakavi Ramdhari Singh Dinkar College of Engineering </a> </li>
+ <li> <a href="#">Muzaffarpur Institute of Technology </a> </li>
+<li> <a href="#"> Sitamarhi Institute of Technology </a> </li>
+<li> <a href="#"> Shershah College of Engineering </a> </li>
+<li> <a href="#"> Government Engineering College, Araria </a> </li>
+<li> <a href="#"> Government Engineering College, Vaishali </a> </li>
+ <li> <a href="#"> Government Engineering College, Jamui </a> </li>
+<li> <a href="#"> Government Engineering College, Banka </a> </li>
+<li> <a href="#"> Government Engineering College, Arwal </a> </li>
+<li> <a href="#"> Government Engineering College, Nawada </a> </li>
+<li> <a href="#"> Government Engineering College, Kishanganj </a> </li>
+<li> <a href="#"> Government Engineering College, Munger </a> </li>
+<li> <a href="#"> Government Engineering College, Sheohar </a> </li>
+<li> <a href="#"> Government Engineering College, West Champaran </a> </li>
+<li> <a href="#"> Government Engineering College, Aurangabad </a> </li>
+<li> <a href="#"> Government Engineering College, Kaimur </a> </li>
+<li> <a href="#"> Government Engineering College, Gopalganj </a> </li>
+<li> <a href="#"> Government Engineering College, Madhubani </a> </li>
+ <li> <a href="#"> Government Engineering College, Siwan </a> </li>
+<li> <a href="#"> Government Engineering College, Jehanabad </a> </li>
+<li> <a href="#"> Government Engineering College, Khagaria </a> </li>
+ <li> <a href="#"> Government Engineering College, Buxar </a> </li>
+<li> <a href="#"> Government Engineering College, Bhojpur </a> </li>
+ <li> <a href="#">Government Engineering College, Sheikhpura </a> </li>
+ <li> <a href="#"> Government Engineering College, Lakhisarai </a> </li>
+<li> <a href="#"> Government Engineering College, Samastipur </a> </li>
+ <li> <a href="#"> Adwaita Mission Institute of Technology, Banka </a> </li>
+ <li> <a href="#"> Azmet Institute of Technology, Kishanganj </a> </li>
+ <li> <a href="#"> Buddha Institute of Technology, Gaya </a> </li>
+<li> <a href="#">  Exalt College of Engineering & Technology, Vaishali </a> </li>
+<li> <a href="#"> Maulana Azad College of Engineering and Technology </a> </li>
+<li> <a href="#"> Moti Babu Institute of Technolog </a> </li>
+<li> <a href="#"> Netaji Subhas Institute of Technology, Bihta </a> </li>
+<li> <a href="#"> R.P. Sharma Institute of Technology </a> </li>
+<li> <a href="#"> Sityog Institute of Technology, Aurangabad  </a> </li>
+<li> <a href="#"> Siwan Engineering & Technical Institute, Siwan </a> </li>
+<li> <a href="#"> Vidya Vihar Institute of Technology </a> </li> 
+
+</ul> 
+<h2> Medical colleges</h2>
+<ul> 
+<li> <a href="#"> The Medical colleges under Aryabhatta Knowledge University include.</a> </li>
+
+<li> <a href="#"> Government Ayurvedic College, Patna </a> </li>
+<li> <a href="#"> Government Tibbi College and Hospital, Patna </a> </li>
+<li> <a href="#"> Rajkiya Ayodhya Shivkumari Ayurved College & Hospital, Begusarai </a> </li>
+<li> <a href="#"> Patna Dental College<br>
+<li> <a href="#"> Anugrah Narayan Magadh Medical College and Hospital </a> </li>
+<li> <a href="#"> Darbhanga Medical College and Hospital </a> </li>
+<li> <a href="#"> Jannayak Karpoori Thakur Medical College & Hospital, Madhepura, Bihar </a> </li>
+<li> <a href="#"> Jawaharlal Nehru Medical College, Bhagalpur </a> </li>
+<li> <a href="#"> Government Medical College, Bettiah </a> </li>
+<li> <a href="#"> Madhubani Medical College and Hospital, Madhubani </a> </li>
+<li> <a href="#"> Ambedkar Institute of Higher Education, Danapur, Patna</a> </li>
+<li> <a href="#"> Aihe Professional Institute, Danapur, Patna </a> </li>
+<li> <a href="#"> Ambedkar College of Education, Rohtas </a> </li>
+<li> <a href="#"> Nalanda Medical College and Hospital </a> </li>
+<li> <a href="#"> Netaji Subhas Medical College & Hospital, Amhara, Bihta, Patna </a> </li>
+<li> <a href="#"> Patna Medical College and Hospital </a> </li>
+<li> <a href="#"> Sri Krishna Medical College and Hospital </a> </li>
+<li> <a href="#"> Vardhman Institute of Medical Sciences  </a> </li>
+<li> <a href="#"> Public Health Institute </a> </li>
+
+
+<h2> Pharmacy colleges <br> 
+
+<u>  The Pharmacy colleges under Aryabhatta Knowledge University include: </u> </h2> 
+<ul> 
+<li> <a href="#"> Government Pharmacy Institute, Patna </a> </li> 
+<li> <a href="#"> Zee Educational Foundation Institute of Pharmacy, Aurangabad </a> </li> 
+<li> <a href="#"> Nibha Institute of Pharmaceutical Sciences, Nalanda </a> </li> 
+<li> <a href="#"> Gautam Institute of Pharmacy, Hilsa, Nalanda </a> </li> 
+<li> <a href="#"> Mamta Institute of Education, Siwan </a> </li> 
+<li> <a href="#"> Swami Vivekanand Professional Institute, Rohtas </a> </li> 
+<li> <a href="#"> Chanakya College of Pharmacy and Medical Sciences, Bhojpur </a> </li>  
+<li> <a href="#"> Mother's Institute of Technology, Bihta </a> </li> 
+<li> <a href="#"> S.N.S College of Pharmacy, Motihari </a> </li> 
+</ul> 
+
+<h2> Educational colleges </h2> 
+<ul> 
+<li> <a href="#"> St. Xavier's College of Education, Patna  </a> </li> 
+<li> <a href="#"> Amaltas College of Education, Rohtas </a> </li> 
+<li> <a href="#"> Trident BEd College, Giddha </a> </li> 
+<li> <a href="#"> Hari Narain Singh Institute of Teacher's Education, Sasaram </a> </li> 
+<li> <a href="#"> Kingway Technical Institute, Kaimur </a> </li> 
+<li> <a href="#"> Radhakrishnan College of Education, Patna </a> </li> 
+<li> <a href="#"> Maitreya College of Education & Management, Vaishali </a> </li> 
+<li> <a href="#"> Harakhdeo Singh College of Education Ramanuj Bag, Nalanda </a> </li> 
+<li> <a href="#"> Maa Aranya Devi BEd College, Bhojpur </a> </li> 
+<li> <a href="#"> R.L. Mahto Institute of Education, Samastipur </a> </li> 
+<li> <a href="#"> Mundeshwari College for Teacher Education, Patna</a> </li> 
+<li> <a href="#"> Raj Mata Madhuri Devi Teacher’s Training College, Khagaria </a> </li> 
+<li> <a href="#"> Ganga Global Institute of Teacher Education, Begusarai</a> </li> 
+<li> <a href="#"> S. S. College of Teacher Education, Patna</a> </li> 
+<li> <a href="#"> Surendra BEd Teacher Training College </a> </li> 
+<li> <a href="#"> Himalaya Teacher’s Training College, Patna </a> </li> 
+<li> <a href="#"> Veerayatan BEd College, Nalanda </a> </li> 
+<li> <a href="#"> Mamta Institute of Education, Siwan </a> </li> 
+<li> <a href="#"> Acharya Sudarshan BEd College, Sitamarhi </a> </li> 
+<li> <a href="#"> KGI School of Education, Patna </a> </li> 
+<li> <a href="#"> Janardan Prasad Singh Teachers Training College, Saran </a> </li> 
+<li> <a href="#"> Kamla Bhubneshwer BEd College, Begusarai</a> </li> 
+<li> <a href="#"> Deshratna Rajendra Prasad Shikshak Prashikshan Mahavidyalaya, Patna </a> </li> 
+<li> <a href="#"> Bhagawati Singh Memorial BEd Mahavidyalaya, Bhabhua </a> </li> 
+<li> <a href="#"> R.S. Sharda Devi Education College, Vaishali </a> </li> 
+<li> <a href="#"> Government Women's College, Gardanibagh </a> </li> 
+<li> <a href="#"> Tarkeshwar Narayan Agrawal Teacher's Training College, Harigaon </a> </li> 
+<li> <a href="#"> Chanakya Foundation, Patna </a> </li> 
+<li> <a href="#"> Tapeshwar Singh Teacher's Training College, Bhojpur </a> </li> 
+<li> <a href="#"> Maryada Purushotam College of Education, Buxar</a> </li> 
+<li> <a href="#"> Bhuwan Malti Teachers Training College, Motihari </a> </li> 
+<li> <a href="#"> Gyan Prakash Swami Vivekanand Teacher's Training College, Khushrupur </a> </li> 
+<li> <a href="#"> Gautam College of Education, Chapra </a> </li> 
+<li> <a href="#"> Indrakali Ramjee Singh BEd College, Gopalganj </a> </li> 
+<li> <a href="#"> Vocational & professional college </a> </li> 
+</ul>
+<h2> The Vocational and Professional colleges under 
+Aryabhatta Knowledge University include.</h2>
+<ul> 
+<li> <a href="#"> Vidya Vihar Institute of Technology, Purnia </a> </li> 
+<li> <a href="#"> Ambedkar Institute of Higher Education, Danapur, </a> </li> 
+<li> <a href="#"> Cimage Professional College, Patna </a> </li> 
+<li> <a href="#"> Sityog Institute of Technology, Aurangabad </a> </li> 
+<li> <a href="#"> Azmet Institute of Technology, Kishanganj </a> </li> 
+<li> <a href="#"> Adwaita Mission Institute of Technology, Banka </a> </li> 
+<li> <a href="#"> Moti Babu Institute of Technology, Forebesganj </a> </li> 
+<li> <a href="#"> Mamta Institute of Education </a> </li> 
+<li> <a href="#"> Siwan Engineering & Technology, Siwan </a> </li> 
+<li> <a href="#"> R.P. Sharma Institute of Technology, Patna </a> </li> 
+<li> <a href="#"> St. Xavier's College of Management & Technology, Patna<br>
+<li> <a href="#"> Cimage Professional College, Patna<br>
+<li> <a href="#"> IMPACT, Patna<br>
+<li> <a href="#"> International School of Management, Patna </a> </li> 
+<li> <a href="#"> Indian Institute of Business Management, Patna </a> </li> 
+<li> <a href="#">Ganga Global Institute of Management Studies, Begusarai </a> </li> 
+<li> <a href="#"> Lalit Narayan Mishra Institute of Economic Development & Social Change, Patna </a> </li> 
+</ul> 
+</body> 
+
+</html>
+

@@ -1,0 +1,26 @@
+
+ body{
+ background-image: url("uni.jpg");
+ width:1200px;
+ margin-left:200px;
+  background-repeat:no-repeat; 
+  background-size:1600px 600px;
+  
+ }
+ 
+ .nav2{
+background-color:yellow;
+height:30px;
+width:1200px;	
+}
+.navbar{
+margin:5px;
+padding:5px;
+color:white;
+font-weight:bold;
+font-size:20px;
+}
+
+.txt{
+	color:brown;
+}

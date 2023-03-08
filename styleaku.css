@@ -1,0 +1,76 @@
+.nav1{
+background-color:pink;
+height:30px;
+width:1600px;	
+}
+.navbar{
+margin:5px;
+padding:5px;
+color:white;
+font-weight:bold;
+font-size:20px;
+}
+
+.head{
+	color:aqua;
+	font-weight:bold;
+	font-size:50px;
+	margin-left:300px;
+	text-decoration:none;
+}
+.box1{
+	display:flex;
+	margin-top:200px;
+	margin-left:50px;
+}
+
+
+.pic1
+{
+	margin:10px;
+	padding:10px;
+	height:340px;
+	border:2px solid pink;
+}
+
+.pic2
+{
+	margin:10px;
+	padding:10px;
+	height:340px;
+	border:2px solid pink;
+}
+.pic3
+{
+	margin:10px;
+	padding:10px;
+	height:340px;
+	border:2px solid pink;
+}
+.pic4
+{
+	margin:10px;
+	padding:10px;
+	height:340px;
+	border:2px solid pink;
+}
+body {
+ background-image:url("backg.jpg"); 
+ 
+  background-repeat:no-repeat; 
+  background-size:1600px 600px;
+  
+ }
+  p { 
+  font-size: 24px; 
+ font-weight: normal; 
+ text-decoration:underline; 
+ font-style: italic; 
+}
+ .navbar:hover{ 
+ color:red;
+ } 
+ .navbar:active { 
+ color:green;
+ }
+ </style>
